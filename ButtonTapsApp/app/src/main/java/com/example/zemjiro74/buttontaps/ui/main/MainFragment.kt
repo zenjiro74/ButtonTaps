@@ -18,8 +18,6 @@ class MainFragment : Fragment() {
     }
 
     private lateinit var viewModel: MainViewModel
-//    private val viewmodel: MainViewModel by viewModels { viewModelFactory }
-
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
