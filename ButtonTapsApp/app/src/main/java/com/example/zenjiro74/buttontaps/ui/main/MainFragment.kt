@@ -1,4 +1,4 @@
-package com.example.zemjiro74.buttontaps.ui.main
+package com.example.zenjiro74.buttontaps.ui.main
 
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
@@ -7,7 +7,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
-import androidx.fragment.app.viewModels
 import com.example.zemjiro74.buttontaps.R
 import com.example.zemjiro74.buttontaps.databinding.MainFragmentBinding
 

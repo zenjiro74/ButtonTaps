@@ -1,4 +1,4 @@
-package com.example.zemjiro74.buttontaps.ui.main
+package com.example.zenjiro74.buttontaps.ui.main
 
 import android.view.View
 import androidx.lifecycle.LiveData

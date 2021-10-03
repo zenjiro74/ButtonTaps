@@ -1,8 +1,9 @@
-package com.example.zemjiro74.buttontaps
+package com.example.zenjiro74.buttontaps
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.zemjiro74.buttontaps.ui.main.MainFragment
+import com.example.zemjiro74.buttontaps.R
+import com.example.zenjiro74.buttontaps.ui.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
 
