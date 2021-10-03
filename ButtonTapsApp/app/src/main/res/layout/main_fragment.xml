@@ -3,6 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
 
+    <data>
+        <variable
+            name="vm"
+            type="com.example.zenjiro74.buttontaps.ui.main.MainViewModel" />
+    </data>
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/main"
         android:layout_width="match_parent"
@@ -97,10 +103,4 @@
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
-
-    <data>
-        <variable
-            name="vm"
-            type="com.example.zenjiro74.buttontaps.ui.main.MainViewModel" />
-    </data>
 </layout>
