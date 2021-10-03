@@ -7,8 +7,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
-import com.example.zemjiro74.buttontaps.R
-import com.example.zemjiro74.buttontaps.databinding.MainFragmentBinding
+import com.example.zenjiro74.buttontaps.R
+import com.example.zenjiro74.buttontaps.databinding.MainFragmentBinding
 
 class MainFragment : Fragment() {
 

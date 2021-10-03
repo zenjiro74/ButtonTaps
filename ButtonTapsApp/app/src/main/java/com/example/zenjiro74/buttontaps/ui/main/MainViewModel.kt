@@ -4,7 +4,7 @@ import android.view.View
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.zemjiro74.buttontaps.R
+import com.example.zenjiro74.buttontaps.R
 
 class MainViewModel : ViewModel() {
     private var _countA = MutableLiveData("0")
